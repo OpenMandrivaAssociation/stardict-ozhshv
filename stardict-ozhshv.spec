@@ -1,10 +1,10 @@
 %define dict_name	ozhshv
 %define version		2.4.2
-%define release		1
+%define release		2
 
 Name: 			stardict-%dict_name
 Version: 		2.4.2
-Release: 		%mkrel 1
+Release: 		2
 Summary: 		Ozhegov's and Shvedova's Russian Dictionary
 License: 		GPLv2+
 URL:			http://xdxf.revdanica.com/down/index.php
